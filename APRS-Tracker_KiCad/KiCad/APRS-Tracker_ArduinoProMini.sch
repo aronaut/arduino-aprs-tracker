@@ -1,5 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:APRS-Tracker_ArduinoProMini-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 8268 11693 portrait
@@ -325,7 +324,7 @@ Text Label 6600 4550 0    39   ~ 0
 Text Notes 7150 5150 2    39   ~ 0
 GPS Modul (9600Baud)
 Text Notes 1150 3400 0    47   Italic 0
-Anschluß Baofeng UV-5R => APRS Tracker\nPTT => PTT\nGND => GND\nMIC => MIC_ANALOG_OUT
+Connection to Baofeng UV-5R => APRS Tracker\nPTT => PTT\nGND => GND\nMIC => MIC_ANALOG_OUT
 Wire Wire Line
 	5650 4950 5850 4950
 $Comp
